@@ -102,7 +102,7 @@ body {
             transform: rotateY(360deg);
   }
 }
-@-webkit-keyframes spinRevert {
+@keyframes spinRevert {
   from{
     -webkit-transform: rotateY(360deg);
             transform: rotateY(360deg);
