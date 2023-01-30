@@ -9,6 +9,14 @@ body {
   /* for touch screen */
   touch-action: none; 
 }
+.typewrite > .wrap { 
+  color: #000;
+  font-family: 'Swanky and Moo Moo', cursive;
+}
+
+* {
+  color:#000; text-decoration: none; 
+}
 
 body {
   overflow: hidden;
